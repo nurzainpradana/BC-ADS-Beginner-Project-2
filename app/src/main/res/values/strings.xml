@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BC ADS 2</string>
+    <string name="get_started">Get Started</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="gambar_bangku">Gambar Bangku</string>
+    <string name="please_sign_in_to_continue">Please Sign In to Continue</string>
+    <string name="don_t_have_account_sign_up">Don\'t Have Account? Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account_sign_in">Already Have Account? Sign In</string>
+    <string name="nur_zain_pradana">Nur Zain Pradana</string>
+    <string name="bagicode">BagiCode</string>
+    <string name="bc">BC</string>
+</resources>
