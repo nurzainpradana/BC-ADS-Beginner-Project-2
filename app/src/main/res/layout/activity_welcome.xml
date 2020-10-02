@@ -18,7 +18,7 @@
         app:srcCompat="@drawable/ic_icon_apps" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btn_get_started"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="100dp"
